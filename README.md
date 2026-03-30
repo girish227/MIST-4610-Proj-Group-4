@@ -13,6 +13,7 @@ Team Members
 ---
 Database Scenario
 ---
+The
 Data Model
 ---
 The NFL Combine Database is composed of ten entities whose relationships collectively model the full journey of a college football prospect through the scouting combine and into the NFL Draft.
