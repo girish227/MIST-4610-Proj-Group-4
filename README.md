@@ -13,8 +13,6 @@ Team Members
 ---
 Database Scenario
 ---
-The combine
----
 The NFL combine
 Data Model
 ---
