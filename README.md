@@ -53,11 +53,10 @@ Query 2 finds all players who scored above the average bench press result at the
 
 Strength is a critical factor for interior linemen, linebackers, and tight ends. A strength and conditioning coach evaluating prospects needs to quickly identify which players demonstrated above-average strength relative to the full prospect pool. This version keeps the query focused purely on the player name and their bench press result without the additional context of position and college.
 
+Query 3 lists all players who were drafted along with the team that selected them and the draft round.
+<img width="1166" height="579" alt="Screenshot 2026-03-31 at 5 10 38 PM" src="https://github.com/user-attachments/assets/23d13b6c-987f-431d-944c-71d97214590f" />
 
-Query 3 lists each player’s first name, last name, and the college they attended.
-<img width="714" height="285" alt="Screenshot 2026-03-31 at 11 06 27 AM" src="https://github.com/user-attachments/assets/936744c1-5080-42df-a048-dcd2d1c4a705" />
-
-Query 3 allows users to view basic information about all players, including their college and conference. This helps analysts quickly understand where players come from and which conferences produce the most talent. Ordering the results by last name makes the data easier to read and locate specific players.
+Query 7 allows users to view which players were drafted, the team that selected them, and the round they were chosen in. This provides insight into how early or late players were picked and which teams selected them. It is especially useful for analysts and front office staff who want to evaluate draft decisions and understand how talent is distributed across teams. Ordering the results by draft round makes it easier to see top picks first and analyze draft trends.
 
 Query 4 calculates the average measurement for each drill based on player position.
 <img width="692" height="340" alt="Screenshot 2026-03-31 at 11 07 33 AM" src="https://github.com/user-attachments/assets/3dc8db0d-e350-4ac4-b1d7-512464e8c472" />
