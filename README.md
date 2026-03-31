@@ -60,5 +60,16 @@ Query 4 calculates the average measurement for each drill based on player positi
 
 Query 4 allows analysts to compare how different positions perform across various combine drills. Calculating averages highlights trends, such as which positions perform better in certain types of drills. This can help teams evaluate player strengths and make better draft decisions. Sorting the results by average measurement makes it easier to identify top-performing positions.
 
+Query 5 lists all players over 300 pounds in descending order.
+<img width="1662" height="1173" alt="image" src="https://github.com/user-attachments/assets/b153b563-f19c-45ba-b3e6-ebeccffc0641" />
+
+A scout or general manager evaluating the offensive and defensive line needs to quickly filter prospects by size. Players over 300 pounds occupy a specific role in the NFL where mass and strength are baseline requirements, and this query gives personnel staff an instant list of prospects who meet that physical threshold.
+
+Query 6 lists all colleges that produced at least 5 draft picks and the total number of players drafted from that school.
+<img width="1884" height="1323" alt="image" src="https://github.com/user-attachments/assets/03df7930-a789-4fe2-a236-256d5bf40b46" />
+
+NFL franchises invest heavily in scouting certain college programs. A director of player personnel needs to know which schools consistently produce drafted talent, as this informs where to allocate scouting resources each year. Programs with multiple draft picks signal a strong development pipeline worth monitoring closely.
+
+
 
 
