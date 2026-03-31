@@ -31,6 +31,8 @@ Data Dictionary
 ---
 <img width="784" height="523" alt="image" src="https://github.com/user-attachments/assets/22602953-7538-4fa6-aa42-c2c08da28b83" />
 <img width="937" height="643" alt="image" src="https://github.com/user-attachments/assets/b2ac13e5-2951-4581-bd6c-69014760455f" />
+<img width="755" height="378" alt="Screenshot 2026-03-31 at 11 05 11 AM" src="https://github.com/user-attachments/assets/27836e6f-5241-4d4b-8edd-2baa2b4f4698" />
+<img width="748" height="555" alt="Screenshot 2026-03-31 at 11 05 27 AM" src="https://github.com/user-attachments/assets/a15b6b8a-d092-4408-a9ff-bed6bce0ac3f" />
 
 
 Queries
@@ -46,3 +48,12 @@ A general manager or scout needs a quick reference of all prospects and their co
 Query 2 finds all players who scored above the average bench press result at the combine, and display their first name, last name, and how many reps they recorded, sorted from highest to lowest.
 
 Strength is a critical factor for interior linemen, linebackers, and tight ends. A strength and conditioning coach evaluating prospects needs to quickly identify which players demonstrated above-average strength relative to the full prospect pool. This version keeps the query focused purely on the player name and their bench press result without the additional context of position and college.
+Query 3 lists each player’s first name, last name, and the college they attended.
+<img width="714" height="285" alt="Screenshot 2026-03-31 at 11 06 27 AM" src="https://github.com/user-attachments/assets/936744c1-5080-42df-a048-dcd2d1c4a705" />
+Query 3 allows users to view basic information about all players, including their college and conference. This helps analysts quickly understand where players come from and which conferences produce the most talent. Ordering the results by last name makes the data easier to read and locate specific players.
+Query 4 calculates the average measurement for each drill based on player position.
+<img width="692" height="340" alt="Screenshot 2026-03-31 at 11 07 33 AM" src="https://github.com/user-attachments/assets/3dc8db0d-e350-4ac4-b1d7-512464e8c472" />
+Query 4 allows analysts to compare how different positions perform across various combine drills. Calculating averages highlights trends, such as which positions perform better in certain types of drills. This can help teams evaluate player strengths and make better draft decisions. Sorting the results by average measurement makes it easier to identify top-performing positions.
+
+
+
