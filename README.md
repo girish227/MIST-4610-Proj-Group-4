@@ -25,3 +25,19 @@ On the draft side, DraftPicks records each selection made by an NFL team, storin
 The database is specifically scoped to the combine evaluation and draft selection process, meaning it supports storage of player biographical and physical data, college and university information, positional data including multi-position players, combine event details, drill definitions and performance results, and draft pick records linked to both the selecting NFL team and the player chosen. It does not, however, support storage of data outside this scope such as post-draft career statistics, player contracts or salaries, injury or medical history, scouting evaluations and film grades, coaching staff information, player transactions or trades, roster and depth chart data, or players who did not attend the combine at all.
 
 <img width="1138" height="833" alt="image" src="https://github.com/user-attachments/assets/9ff41f0a-b076-4dc4-95d8-ab7f933d4fda" />
+
+Data Dictionary
+---
+Queries
+---
+**Insert Matrix**
+<img width="1603" height="937" alt="image" src="https://github.com/user-attachments/assets/2f6cb44b-bc94-4393-940f-97d5e827ef84" />
+Query 1 fetches the first and last names of all players within the database along with their respective alma maters. The query itself is ordered by last name for organization sake.
+
+A general manager or scout needs a quick reference of all prospects and their college backgrounds. College affiliation often influences how a player is evaluated, as certain programs are known for producing NFL-ready talent, and this query provides an instant roster overview.
+
+<img width="1597" height="918" alt="image" src="https://github.com/user-attachments/assets/0c904696-6e71-4cae-8580-5f3ab0f384bd" />
+
+Query 2 finds all players who scored above the average bench press result at the combine, and display their first name, last name, and how many reps they recorded, sorted from highest to lowest.
+
+Strength is a critical factor for interior linemen, linebackers, and tight ends. A strength and conditioning coach evaluating prospects needs to quickly identify which players demonstrated above-average strength relative to the full prospect pool. This version keeps the query focused purely on the player name and their bench press result without the additional context of position and college.
