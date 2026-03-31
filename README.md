@@ -48,6 +48,8 @@ A general manager or scout needs a quick reference of all prospects and their co
 Query 2 finds all players who scored above the average bench press result at the combine, and display their first name, last name, and how many reps they recorded, sorted from highest to lowest.
 
 Strength is a critical factor for interior linemen, linebackers, and tight ends. A strength and conditioning coach evaluating prospects needs to quickly identify which players demonstrated above-average strength relative to the full prospect pool. This version keeps the query focused purely on the player name and their bench press result without the additional context of position and college.
+
+
 Query 3 lists each player’s first name, last name, and the college they attended.
 <img width="714" height="285" alt="Screenshot 2026-03-31 at 11 06 27 AM" src="https://github.com/user-attachments/assets/936744c1-5080-42df-a048-dcd2d1c4a705" />
 
