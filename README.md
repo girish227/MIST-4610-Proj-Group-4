@@ -16,6 +16,8 @@ Database Scenario
 The NFL Combine Database models the annual NFL Scouting Combine process, capturing the full pipeline from college prospect evaluation through to draft day selection. Each year, hundreds of college football players are invited to Indianapolis where they undergo standardized physical and cognitive drills,  with every result logged against the specific player, drill, and combine event. The database tracks each player's college affiliation, the position or positions they play, their participation and drill results at the combine, and ultimately the NFL team and draft round in which they were selected. This structure makes it possible to query insights such as positional performance averages, college program output, historical draft trends by team, and individual athlete profiles, supporting the needs of front office personnel, scouts, and analysts who rely on accurate combine data to make informed decisions.
 Data Model
 ---
+<img width="784" height="523" alt="image" src="https://github.com/user-attachments/assets/1d4c37f6-33d5-4362-aa38-dcdf18e23fcb" />
+
 The NFL Combine Database is composed of ten entities whose relationships collectively model the full journey of a college football prospect through the scouting combine and into the NFL Draft.
 At the center of the model is the Players entity, which stores each prospect's name, height, weight, and college affiliation. Every player is linked to a College, which records the school name, conference, state, and city. Since a player can play more than one position, a junction table called PlayerPosition sits between Players and Positions, creating a many-to-many relationship that allows a single player to be associated with multiple position codes and names, such as both Linebacker and Defensive End.
 
@@ -28,6 +30,10 @@ The database is specifically scoped to the combine evaluation and draft selectio
 
 Data Dictionary
 ---
+<img width="784" height="523" alt="image" src="https://github.com/user-attachments/assets/22602953-7538-4fa6-aa42-c2c08da28b83" />
+<img width="937" height="643" alt="image" src="https://github.com/user-attachments/assets/b2ac13e5-2951-4581-bd6c-69014760455f" />
+
+
 Queries
 ---
 **Insert Matrix**
