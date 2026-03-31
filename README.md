@@ -1,4 +1,3 @@
-<img width="1656" height="672" alt="image" src="https://github.com/user-attachments/assets/df81c896-8a94-4948-8f13-2322ca7c73da" />MIST-4610-Proj-Group-4
 #Team Name:
 ---
 21482 Group 4
@@ -34,7 +33,8 @@ Data Dictionary
 <img width="755" height="378" alt="Screenshot 2026-03-31 at 11 05 11 AM" src="https://github.com/user-attachments/assets/27836e6f-5241-4d4b-8edd-2baa2b4f4698" />
 <img width="748" height="555" alt="Screenshot 2026-03-31 at 11 05 27 AM" src="https://github.com/user-attachments/assets/a15b6b8a-d092-4408-a9ff-bed6bce0ac3f" />
 <img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/f50123c9-f025-4899-b271-2e9645acaf3d" />
-<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/0a46289e-49e7-44b3-984a-2a8639f0519a" />
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/75e36041-2b51-46b0-bf2e-5e60a8db705c" />
+
 
 
 
