@@ -56,7 +56,7 @@ Strength is a critical factor for interior linemen, linebackers, and tight ends.
 Query 3 lists all players who were drafted along with the team that selected them and the draft round.
 <img width="1166" height="579" alt="Screenshot 2026-03-31 at 5 10 38 PM" src="https://github.com/user-attachments/assets/23d13b6c-987f-431d-944c-71d97214590f" />
 
-Query 7 allows users to view which players were drafted, the team that selected them, and the round they were chosen in. This provides insight into how early or late players were picked and which teams selected them. It is especially useful for analysts and front office staff who want to evaluate draft decisions and understand how talent is distributed across teams. Ordering the results by draft round makes it easier to see top picks first and analyze draft trends.
+Query 3 allows users to view which players were drafted, the team that selected them, and the round they were chosen in. This provides insight into how early or late players were picked and which teams selected them. It is especially useful for analysts and front office staff who want to evaluate draft decisions and understand how talent is distributed across teams. Ordering the results by draft round makes it easier to see top picks first and analyze draft trends.
 
 Query 4 calculates the average measurement for each drill based on player position.
 <img width="692" height="340" alt="Screenshot 2026-03-31 at 11 07 33 AM" src="https://github.com/user-attachments/assets/3dc8db0d-e350-4ac4-b1d7-512464e8c472" />
