@@ -7,8 +7,8 @@ Team Members
 1. Firdows Abdulwahab-* [firdowsabdulwahab](https://github.com/fa33476-blip)
 2. Dylan Klinghoffer-* [dylanklinghoffer](https://github.com/dmk30222-lab)
 3. Girish Saravanan-* [girishsaravanan](https://github.com/girish227)
-4. Joseph Tapp-* [josephtapp]((https://github.com/joewtapp))
-5. Munil Vaishnav-* [munilvaishnav]((https://github.com/mv63225))
+4. Joseph Tapp-* [josephtapp](https://github.com/joewtapp)
+5. Munil Vaishnav-* [munilvaishnav](https://github.com/mv63225)
 ---
 Database Scenario
 ---
