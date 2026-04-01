@@ -78,6 +78,17 @@ Query 6 lists all colleges that produced at least 5 draft picks and the total nu
 
 NFL franchises invest heavily in scouting certain college programs. A director of player personnel needs to know which schools consistently produce drafted talent, as this informs where to allocate scouting resources each year. Programs with multiple draft picks signal a strong development pipeline worth monitoring closely.
 
+Query 7 lists the average combine measurement by drill and by college.
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/8d12e7a6-280a-47da-917a-70dfbe5efdc8" />
 
 
+Query 7 fetches the average measurement for every combine drill and groups it by the school. It uses a grouping query and joins all the necessary tables to link the combine results to universities. This query and its results are important to a general manager in the NFL since it is useful in determining if certain schools on average produce more favorable measurements in certain drills. This is especially useful for the wonderlic test, since it is an intelligence based test, and certain schools may be better at producing players that succeed at this test than others. It can guide GMs as to which school may have success in producing players at positions that require more success in certain drills as opposed to others. 
+
+Query 8 lists out how many of each position is taken in each of the past draft years
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6ab7c565-b7c7-4762-a4b0-60a29cc294fe" />
+
+
+This query is meant to tell how many of each position is taken in the draft in each year. This query joins the tables related to players and their positions and the DraftPicks table. It also takes the count of each position and groups it by year. This is important from a managerial perspective since looking at past drafted positions can help forecast how strong or weak certain draft classes were in certain positions. It also can help forecast when contract terms may run out and makes it easier to forecast free agency managers to make decisions. It can also tell what positions the league is in need of with how every team drafts.
 
