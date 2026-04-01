@@ -12,8 +12,10 @@ Team Members
 ---
 Database Scenario
 ---
+
 The NFL Combine Database models the annual NFL Scouting Combine process, capturing the full pipeline from college prospect evaluation through to draft day selection. Each year, hundreds of college football players are invited to Indianapolis where they undergo standardized physical and cognitive drills,  with every result logged against the specific player, drill, and combine event. The database tracks each player's college affiliation, the position or positions they play, their participation and drill results at the combine, and ultimately the NFL team and draft round in which they were selected. This structure makes it possible to query insights such as positional performance averages, college program output, historical draft trends by team, and individual athlete profiles, supporting the needs of front office personnel, scouts, and analysts who rely on accurate combine data to make informed decisions.
 Data Model
+
 ---
 
 The NFL Combine Database is composed of ten entities whose relationships collectively model the full journey of a college football prospect through the scouting combine and into the NFL Draft.
@@ -44,16 +46,15 @@ Data Dictionary
 
 Queries
 ---
-**Insert Matrix**
-<img width="1603" height="937" alt="image" src="https://github.com/user-attachments/assets/2f6cb44b-bc94-4393-940f-97d5e827ef84" />
+<img width="1253" height="463" alt="image" src="https://github.com/user-attachments/assets/8ce2c7eb-33dc-44c7-ae8a-89cd5b2df70f" />
+
 Query 1 fetches the first and last names of all players within the database along with their respective alma maters. The query itself is ordered by last name for organization sake.
-
+<img width="1603" height="937" alt="image" src="https://github.com/user-attachments/assets/2f6cb44b-bc94-4393-940f-97d5e827ef84" />
 A general manager or scout needs a quick reference of all prospects and their college backgrounds. College affiliation often influences how a player is evaluated, as certain programs are known for producing NFL-ready talent, and this query provides an instant roster overview.
-
-<img width="1597" height="918" alt="image" src="https://github.com/user-attachments/assets/0c904696-6e71-4cae-8580-5f3ab0f384bd" />
 
 Query 2 finds all players who scored above the average bench press result at the combine, and display their first name, last name, and how many reps they recorded, sorted from highest to lowest.
 
+<img width="1597" height="918" alt="image" src="https://github.com/user-attachments/assets/0c904696-6e71-4cae-8580-5f3ab0f384bd" />
 Strength is a critical factor for interior linemen, linebackers, and tight ends. A strength and conditioning coach evaluating prospects needs to quickly identify which players demonstrated above-average strength relative to the full prospect pool. This version keeps the query focused purely on the player name and their bench press result without the additional context of position and college.
 
 Query 3 lists all players who were drafted along with the team that selected them and the draft round.
